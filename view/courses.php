@@ -46,7 +46,6 @@
                 </div>
             </div>
 
-            <!-- Second Row: Centered Buttons -->
             <div class="row mt-4 justify-content-center">
                 <div class="col-md-4 mb-3">
                     <a href="http://localhost/Student/view/student.php" class="w-100">
