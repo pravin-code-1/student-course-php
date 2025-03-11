@@ -13,6 +13,7 @@
 <body>
 
   <h1>A <?php echo $title; ?> Registration Student</h1>
+  <h1>A <?php echo $title; ?> Registration Student</h1>
   <P><?php echo $massage; ?></P>
   <div class="container">
     <form id="studentForm" >
